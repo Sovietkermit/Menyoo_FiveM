@@ -21,3 +21,5 @@ Menyoo compatibilty for ;
 FiveM.app\plugins\Menyoo.asi
 
 FiveM.app\data\cache\subprocess\menyooStuff
+
+F4 Menu
